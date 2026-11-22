@@ -45,4 +45,4 @@ Methods to get the binary file out of a Junior or KIM-1.
 Read the record tape into a binary with Ed's DX-Forth and Utilities Page (http://dxforth.mirrors.minimaltype.com/) KIMTAPE conversion. It is MS-DOS and runs fine in VDOS (https://www.vdos.info/) or DOsbox (slow).
 Make a note of start address as shown by KIMTAPE.
 
-Non-printing ASCII charactyers are filtered out of the resulting text file
+Non-printing ASCII characters are filtered out of the resulting text file
