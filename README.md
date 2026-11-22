@@ -1,5 +1,5 @@
 # ConvertKIMtapetoText
-Convert MCIRO ADE and CW Moser tape files to a text file
+Convert MICRO ADE and CW Moser tape files to a text file
 
 GUI application: ConvertKIMtapetoTXT
 
