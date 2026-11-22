@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="36"/>
+        <CursorPos X="22" Y="38"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="convertjuniortodosunit.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos Y="2"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\TPWDB\BIN\HELLOWOR.PAS"/>
+        <UnitName Value="test"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="24" Column="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="19" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="24" Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="29" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="31" Column="4"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="55" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="53" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="51" Column="42" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="52" Column="13" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="48" Column="3" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="45" Column="5" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="75" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="72" Column="15" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="77" Column="59" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="31" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="65" Column="17" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="104" Column="32" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="206" Column="53" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="215" Column="16" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="202" Column="36" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="205" Column="13" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="208" Column="40" TopLine="191"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="51" Column="42" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="172" Column="37" TopLine="157"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="208" Column="3" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="231" Column="11" TopLine="208"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="232" Column="37" TopLine="215"/>
+      </Position>
+      <Position>
+        <Filename Value="ConvCWMAtotxt.lpr"/>
+        <Caret Line="149" Column="17" TopLine="131"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

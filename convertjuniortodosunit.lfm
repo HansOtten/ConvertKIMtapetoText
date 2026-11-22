@@ -1,0 +1,66 @@
+object Mainform: TMainform
+  Left = 452
+  Height = 292
+  Top = 379
+  Width = 569
+  Caption = 'Convert KIM-1 File to text'
+  ClientHeight = 292
+  ClientWidth = 569
+  Menu = ManMenu
+  OnActivate = FormActivate
+  OnCreate = FormCreate
+  LCLVersion = '3.8.0.0'
+  object InfoMemo: TMemo
+    Left = 24
+    Height = 176
+    Top = 16
+    Width = 488
+    Lines.Strings = (
+      'InfoMemo'
+    )
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+  end
+  object ManMenu: TMainMenu
+    Left = 112
+    Top = 224
+    object MenuFile: TMenuItem
+      Caption = 'File'
+      object MenuOpenFile: TMenuItem
+        Caption = 'Open KIM tape file'
+        OnClick = MenuOpenFileClick
+      end
+      object MenuConvert: TMenuItem
+        Caption = 'Convert to text file'
+        OnClick = MenuConvertClick
+      end
+      object MenuExit: TMenuItem
+        Caption = 'Exit'
+        OnClick = MenuExitClick
+      end
+    end
+    object HelpMenu: TMenuItem
+      Caption = 'Help'
+      object MenuHelp: TMenuItem
+        Caption = 'Help'
+        OnClick = MenuHelpClick
+      end
+      object MenuAbout: TMenuItem
+        Caption = 'About'
+        OnClick = MenuAboutClick
+      end
+    end
+  end
+  object OpenJuniorFile: TOpenDialog
+    Left = 24
+    Top = 224
+  end
+  object SavetoASMfile: TSaveDialog
+    Title = 'Save to assembler text file'
+    DefaultExt = '.asm'
+    FileName = 'D:\werk\junior tape pascal werk\convertjuniortodos\test.asm'
+    InitialDir = 'D:\werk\junior tape pascal werk\convertjuniortodos\'
+    Left = 184
+    Top = 224
+  end
+end
